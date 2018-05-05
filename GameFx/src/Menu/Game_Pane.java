@@ -48,7 +48,7 @@ public class Game_Pane extends Pane implements IPaneObeservable ,IFinals {
 	private Font font = new Font("serif", 40);
 
 	// level design numbers
-	private int level = 9;
+	private int level = 1;
 
 	private Image img = new Image("/Images/background.jpg", true);
 	private ImageView image = new ImageView(img);
